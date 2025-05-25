@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "shaobeichen.gradient-theme",
+    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "wayou.vscode-todo-highlight",
+    "redjue.git-commit-plugin",
+    "yzhang.markdown-all-in-one",
+    "atommaterial.a-file-icon-vscode",
+    "ms-vscode.cpptools",
+    "GitHub.copilot",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode.cmake-tools"
+  ]
+}
