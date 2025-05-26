@@ -1,3 +1,3 @@
 # hello-visual-studio-code-cpp
 
-- [INSTALL](./INSTALL.md)
+-   [INSTALL](./INSTALL.md)
