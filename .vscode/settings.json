@@ -11,6 +11,7 @@
     "editor.cursorBlinking": "expand",
     "editor.cursorWidth": 1,
     "editor.cursorSmoothCaretAnimation": "on",
+    "markdown.preview.fontSize": 11,
     "workbench.colorTheme": "Gradient Monokai Pro",
     "workbench.iconTheme": "a-file-icon-vscode",
     "GitCommitPlugin.MaxSubjectCharacters": 30,
